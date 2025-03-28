@@ -13,6 +13,8 @@ Before you begin, ensure the following tools are installed on your system:
   - `OPENAI_API_KEY`
   - `GOOGLE_API_KEY`
 
+Rename the sample.env to .env file
+
 ---
 
 ## Step 1: Install Python 3.11 Using `pyenv`
